@@ -12,7 +12,11 @@ Further verification and automated corrections were done by [Lester James Mirand
 
 Due to the source of the data, several typos, grammatical errors, incomplete sentences, and Tagalog-English code-mixing can be found in the dataset.
 
+## Structure of the treebank
 
+- Train: 12495 sents, 286891 tokens
+- Dev: 1561 sents, 37045 tokens
+- Test: 1563 sents, 36974 tokens
 
 # Acknowledgments
 
