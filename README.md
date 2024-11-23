@@ -7,8 +7,8 @@ Data included in the Leipzig Tagalog Corpus were crawled from Tagalog-language o
 
 The treebank is composed of data sourced from the Leipzig Tagalog Newscrawl 2011 corpus, which is in turn made up of material crawled from Tagalog news sites by the Leipzig University Institute for Computer Science. 
 
-The text data was automatically parsed and annotated by Angelina Aquino (University of the Philippines), and then manually corrected according the UD guidelines adapted for Tagalog by Elsie Marie Or (University of the Philippines), Maria Bardají Farré (University of Cologne), and Dr. Nikolaus Himmelmann (University of Cologne). 
-Further verification and automated corrections were done by Lester James Miranda.
+The text data was automatically parsed and annotated by [Angelina Aquino](https://researchers.cdu.edu.au/en/persons/angelina-aquino) (University of the Philippines), and then manually corrected according the UD guidelines adapted for Tagalog by [Elsie Marie Or](https://www.researchgate.net/profile/Elsie-Or) (University of the Philippines), Maria Bardají Farré (University of Cologne), and Dr. Nikolaus Himmelmann (University of Cologne). 
+Further verification and automated corrections were done by [Lester James Miranda](https://ljvmiranda921.github.io).
 
 Due to the source of the data, several typos, grammatical errors, incomplete sentences, and Tagalog-English code-mixing can be found in the dataset.
 
