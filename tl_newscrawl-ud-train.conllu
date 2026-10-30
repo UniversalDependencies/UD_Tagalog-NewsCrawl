@@ -3912,7 +3912,7 @@
 
 # sent_id = 178
 # text = Kahit naman siguro pagkasama-sama ng mga lokal na opis-yal, kung mahusay na pinuno si Panlilio ay tiyak na meron siyang mapagbabago.
-1	Kahit	Kahit	SCONJ	_	_	4	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	4	mark	_	_
 2	naman	naman	ADV	_	_	1	advmod	_	_
 3	siguro	siguro	ADV	_	_	1	advmod	_	_
 4	pagkasama-sama	sama	ADJ	_	_	20	advcl	_	_
@@ -4067,7 +4067,7 @@
 
 # sent_id = 183
 # text = Kahit na may dugong Pinoy sa mga ugat ng mga guwapong Seattle, Washington guys, nananaig pa rin ang pagka-Amerikano nila when it comes to women.
-1	Kahit	Kahit	SCONJ	_	_	3	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	3	mark	_	_
 2	na	na	ADV	_	_	1	advmod	_	_
 3	may	may	VERB	_	_	19	advcl	_	_
 4-5	dugong	_	_	_	_	_	_	_	_
@@ -27650,7 +27650,7 @@
 
 # sent_id = 1138
 # text = Kahit na lantaran na ang nakawan, hayun at nagkikibit balikat na lamang ang karamihan sa mga Pinoy.
-1	Kahit	Kahit	SCONJ	_	_	3	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	3	mark	_	_
 2	na	na	PART	_	_	1	advmod	_	_
 3	lantaran	lantad	ADJ	_	_	11	advcl	_	_
 4	na	na	ADV	_	_	3	advmod	_	_
@@ -29466,7 +29466,7 @@
 3	mga	mga	DET	_	Number=Plur	4	det	_	_
 4	miron	miron	NOUN	_	_	13	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	kahit	kahit	SCONJ	_	PronType=Int	7	mark	_	_
+6	kahit	kahit	SCONJ	_	_	7	mark	_	_
 7	sila	sila	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
 8	ay	ay	PART	_	_	7	discourse	_	_
 9	hindi	hindi	ADV	_	Polarity=Neg	13	advmod	_	_
@@ -33912,7 +33912,7 @@
 
 # sent_id = 1388
 # text = Kahit na nagsilbi si Lito sa pamahalaan ni Gloria Arroyo noong pumalit ito kay Erap, pareho ang paninindigan ni Erap at ni Lito tungkol sa pagsunod sa Saligang Batas.
-1	Kahit	Kahit	SCONJ	_	_	3	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	3	mark	_	_
 2	na	na	PART	_	_	1	fixed	_	_
 3	nagsilbi	silbi	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	17	advcl	_	_
 4	si	si	DET	_	Case=Nom|Number=Sing	5	det	_	_
@@ -37594,7 +37594,7 @@
 
 # sent_id = 1516
 # text = Kahit na punu-ng -puno ang bulwagan ng Senado ng hapon na iyon, bunga ng sangkatutak na opisyal ng gobyerno na magdedepensa ng kanilang panukalang budget, parang nasa isang isla naman ang senador at senadora sa kanilang paghaharutan sa isa't isa.
-1	Kahit	Kahit	SCONJ	_	_	5	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	5	mark	_	_
 2	na	na	PART	_	_	1	fixed	_	_
 3-4	punu-ng	_	_	_	_	_	_	_	_
 3	punu	puno	ADJ	_	_	5	compound:redup	_	_
@@ -106587,7 +106587,7 @@
 7	manatili	manatili	VERB	_	Aspect=Imp|Mood=Pot|Voice=Act	5	acl:relcl	_	_
 8	sa	sa	ADP	_	Case=Loc	9	case	_	_
 9	poder	poder	NOUN	_	_	7	obl	_	_
-10	kahit	kahit	SCONJ	_	PronType=Int	11	mark	_	_
+10	kahit	kahit	SCONJ	_	_	11	mark	_	_
 11	tapos	tapos	ADJ	_	_	7	advcl	_	_
 12	na	na	ADV	_	_	11	advmod	_	_
 13	ang	ang	DET	_	Case=Nom	14	det	_	_
@@ -110930,7 +110930,7 @@
 21	suporta	suporta	NOUN	_	_	15	nsubj	_	_
 22	kay	kay	ADP	_	Case=Dat|Number=Sing	23	case	_	_
 23	Enrile	Enrile	PROPN	_	_	21	nmod	_	_
-24	kahit	kahit	SCONJ	_	PronType=Int	29	mark	_	_
+24	kahit	kahit	SCONJ	_	_	29	mark	_	_
 25	pa	pa	ADV	_	_	29	advmod	_	_
 26	nga	nga	ADV	_	_	29	advmod	_	_
 27-28	kilalang	_	_	_	_	_	_	_	_
@@ -144969,7 +144969,7 @@
 
 # sent_id = 5675
 # text = Kahit na mainit sa kinalalagyan nila, join pa rin sila sa historical event ng kandidatong kanyang sinuportahan.
-1	Kahit	Kahit	SCONJ	_	_	3	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	3	mark	_	_
 2	na	na	ADV	_	_	1	advmod	_	_
 3	mainit	init	VERB	_	_	8	advcl	_	_
 4	sa	sa	ADP	_	Case=Loc	5	case	_	_
@@ -146080,7 +146080,7 @@
 6	ng	ng	ADP	_	Case=Gen	7	case	_	_
 7	condom	condom	NOUN	_	_	5	nmod	_	_
 8	(na	na	PART	_	_	14	mark	_	_
-9	kahit	kahit	SCONJ	_	_	14	advmod	_	_
+9	kahit	kahit	ADV	_	_	14	advmod	_	_
 10	kailan	kailan	ADV	_	PronType=Int	9	fixed	_	_
 11	ay	ay	PART	_	_	9	discourse	_	_
 12	hindi	hindi	ADV	_	Polarity=Neg	14	advmod	_	_
@@ -169227,7 +169227,7 @@
 
 # sent_id = 6595
 # text = Kahit walang kontrata ay paninindigan ko ang pa­ngako sa iyo, Melanie.
-1	Kahit	Kahit	SCONJ	_	_	2	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	2	mark	_	_
 2-3	walang	_	_	_	_	_	_	_	_
 2	wala	wala	VERB	_	Polarity=Neg	6	advcl	_	_
 3	-ng	na	PART	_	_	4	mark	_	_
@@ -187649,7 +187649,7 @@
 
 # sent_id = 7315
 # text = Kahit wala si center Dwight Howard na sinuspinde ng isang laro dahil sa paniniko kay Samuel Dalembert ng Philadelphia noong Game 5, dinurog ng Magic ang 76ers 114-89 kahapon para kunin ang serye 4-2.
-1	Kahit	Kahit	SCONJ	_	_	2	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	2	mark	_	_
 2	wala	wala	VERB	_	Polarity=Neg	26	advcl	_	_
 3	si	si	DET	_	Case=Nom|Number=Sing	5	det	_	_
 4	center	center	NOUN	_	_	5	nmod	_	_
@@ -192139,7 +192139,7 @@
 6	BOSTON	BOSTON	PROPN	_	_	5	flat	_	_
 7	(AP)	AP	PROPN	_	_	5	flat	_	_
 8	---	---	PUNCT	_	_	2	punct	_	_
-9	Kahit	Kahit	SCONJ	_	_	11	mark	_	_
+9	Kahit	kahit	SCONJ	_	_	11	mark	_	_
 10	nasa	nasa	ADP	_	Case=Loc	11	case	_	_
 11	teritoryo	teritoryo	NOUN	_	_	17	advcl	_	_
 12	ng	ng	ADP	_	Case=Gen	13	case	_	_
@@ -194323,7 +194323,7 @@
 
 # sent_id = 7585
 # text = Kahit wala pang kissing scene, sana’y mag-toothbrush daw ang guwapong aktor pagkatapos niyang kumain.
-1	Kahit	Kahit	SCONJ	_	_	2	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	2	mark	_	_
 2	wala	wala	VERB	_	Polarity=Neg	9	advcl	_	_
 3-4	pang	_	_	_	_	_	_	_	_
 3	pa	pa	ADV	_	_	2	advmod	_	_
@@ -217803,7 +217803,7 @@
 # sent_id = 8467
 # text = "Kahit isang senador lang ang um-attend eh mabubuo na ang ConAss," ani Ablan, subalit sa nga­yon ay wala pa umanong go-signal sa mga liderato na nang tanungin kung sino ang magbibigay ng utos ay hindi na ito nagsalita.
 1	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-2	Kahit	Kahit	SCONJ	_	_	5	mark	_	_
+2	Kahit	kahit	SCONJ	_	_	5	mark	_	_
 3-4	isang	_	_	_	_	_	_	_	_
 3	isa	isa	NUM	_	NumType=Card	5	nummod	_	_
 4	-ng	na	PART	_	_	3	case	_	_
@@ -221553,7 +221553,7 @@
 3	-ng	na	PART	_	_	2	case	_	_
 4	sumali	sali	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	_
 5	rito	dito	PRON	_	Case=Loc|Deixis=Prox|PronType=Dem	4	obl	_	_
-6	kahit	kahit	ADV	_	_	7	mark	_	_
+6	kahit	kahit	SCONJ	_	_	7	mark	_	_
 7	miyembro	miyembro	NOUN	_	_	4	advcl	_	_
 8	ng	ng	ADP	_	Case=Gen	9	case	_	_
 9	Pinoy	Pinoy	PROPN	_	_	7	nmod	_	_
@@ -229623,7 +229623,7 @@
 
 # sent_id = 8916
 # text = Kahit na may kinalaman din tayo kung bakit naging bulok ang sistema ng pamamahala sa ating bayan.
-1	Kahit	Kahit	SCONJ	_	_	3	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	3	mark	_	_
 2	na	na	PART	_	_	1	fixed	_	_
 3	may	may	VERB	_	_	0	root	_	_
 4	kinalaman	alam	VERB	_	_	3	obj	_	_
@@ -244529,7 +244529,7 @@
 
 # sent_id = 9469
 # text = Kahit na ‘di kagandahan ang mga stats n’ya sa NCAA sa WKU, naimbita pa rin si Japeth sa nasabing try-outs sa Los Angeles ng mga scouts dahil na din sa kanyang laki, liksi, at athleticism.
-1	Kahit	Kahit	SCONJ	_	_	4	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	4	mark	_	_
 2	na	na	PART	_	_	1	fixed	_	_
 3	‘di	hindi	ADV	_	Polarity=Neg	4	advmod	_	_
 4	kagandahan	ganda	NOUN	_	_	14	advcl	_	_
@@ -291551,7 +291551,7 @@
 
 # sent_id = 11246
 # text = Kahit walang kontrata ay paninindigan ko ang pa­ngako sa iyo, Melanie.
-1	Kahit	Kahit	SCONJ	_	_	2	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	2	mark	_	_
 2-3	walang	_	_	_	_	_	_	_	_
 2	wala	wala	VERB	_	Polarity=Neg	6	advcl	_	_
 3	-ng	na	PART	_	_	2	flat	_	_

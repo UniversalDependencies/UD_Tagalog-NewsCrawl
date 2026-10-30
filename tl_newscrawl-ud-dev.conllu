@@ -2673,7 +2673,7 @@
 2	po	po	PART	_	Polite=Form	1	discourse	_	_
 3	ba	ba	PART	_	PartType=Int	1	discourse	_	_
 4	iyon	iyon	PRON	_	Case=Nom|Deixis=Remt|PronType=Dem	1	nsubj	_	_
-5	kahit	kahit	ADV	_	_	7	mark	_	_
+5	kahit	kahit	SCONJ	_	_	7	mark	_	_
 6	na	na	PART	_	_	7	mark	_	_
 7	may	may	VERB	_	_	1	advcl	_	_
 8	katibayan	tibay	NOUN	_	_	7	obj	_	_
@@ -15657,7 +15657,7 @@
 
 # sent_id = 13078
 # text = Kahit ilang pirasong paputok o pailaw.
-1	Kahit	Kahit	SCONJ	_	_	4	mark	_	_
+1	Kahit	kahit	SCONJ	_	_	4	mark	_	_
 2-3	ilang	_	_	_	_	_	_	_	_
 2	ilan	ilan	NUM	_	PronType=Int	4	nummod	_	_
 3	-ng	na	PART	_	_	2	case	_	_

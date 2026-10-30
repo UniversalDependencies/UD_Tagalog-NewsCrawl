@@ -2177,7 +2177,7 @@
 14	kissing	kissing	NOUN	_	_	15	nmod	_	_
 15	scene	scene	NOUN	_	_	12	obj	_	_
 16	sa	sa	ADP	_	Case=Loc	21	case	_	_
-17	kahit	kahit	SCONJ	_	_	21	advmod	_	_
+17	kahit	kahit	ADV	_	_	21	advmod	_	_
 18	na	na	ADV	_	_	17	advmod	_	_
 19-20	sinong	_	_	_	_	_	_	_	_
 19	sino	sino	PRON	_	_	17	fixed	_	_
@@ -31936,7 +31936,7 @@
 # sent_id = 15274
 # text = At kahit pa sabihin nating matandang - matanda na siya nang siya’y mamatay, masakit pa rin para sa isang anak ang mawalan ng nanay.
 1	At	at	CCONJ	_	_	4	cc	_	_
-2	kahit	kahit	SCONJ	_	_	4	advmod	_	_
+2	kahit	kahit	ADV	_	_	4	advmod	_	_
 3	pa	pa	ADV	_	_	2	fixed	_	_
 4	sabihin	sabi	VERB	_	Aspect=Imp|Mood=Pot|Voice=Pass	17	advcl	_	_
 5-6	nating	_	_	_	_	_	_	_	_
@@ -38013,7 +38013,7 @@
 14	kagustuhan	gusto	NOUN	_	_	11	obl	_	_
 15	ng	ng	ADP	_	Case=Gen	16	case	_	_
 16	senadora	senadora	NOUN	_	_	14	nmod:poss	_	_
-17	kahit	kahit	ADV	_	_	19	mark	_	_
+17	kahit	kahit	SCONJ	_	_	19	mark	_	_
 18	na	na	PART	_	_	17	fixed	_	_
 19	may	may	VERB	_	_	11	advcl	_	_
 20	nakalipas	lipas	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	23	acl:relcl	_	_

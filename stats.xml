@@ -71,7 +71,7 @@
     <feat name="Polite" value="Form" upos="INTJ,PART">297</feat><!-- po, ho, pong, Opo, poh -->
     <feat name="PronType" value="Dem" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">5762</feat><!-- ito, nito, noon, dito, ‘yun, doon, rito, ‘yon, iyon, ganito -->
     <feat name="PronType" value="Ind" upos="ADV,NOUN,PRON,PROPN">135</feat><!-- anuman, sinuman, anuma, alinman, ano, ninuman, sinuma, Marami, alinmang, ama -->
-    <feat name="PronType" value="Int" upos="ADJ,ADV,CCONJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1573</feat><!-- saan, ano, bakit, ilan, sino, paano, ilang, ila, gaano, kailan -->
+    <feat name="PronType" value="Int" upos="ADJ,ADV,CCONJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1570</feat><!-- saan, ano, bakit, ilan, sino, paano, ilang, ila, gaano, kailan -->
     <feat name="PronType" value="Prs" upos="ADJ,ADP,ADV,NOUN,NUM,PART,PRON,PROPN,VERB">13387</feat><!-- niya, siya, kanya, ko, nila, sila, kanila, ako, mo, namin -->
     <feat name="PronType" value="Tot" upos="PRON">1</feat><!-- lahat -->
     <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">580</feat><!-- ng, nang, ang, na, sa, ay, c, ni, kabila, -ng -->
