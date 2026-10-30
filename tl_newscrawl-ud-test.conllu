@@ -2151,7 +2151,7 @@
 18	-ng	na	PART	_	_	19	mark	_	_
 19	tini-taping	taping	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	17	acl:relcl	_	_
 20	sa	sa	ADP	_	Case=Loc	24	case	_	_
-21	kung	kung	SCONJ	_	_	24	advmod	_	_
+21	kung	kung	ADV	_	_	24	advmod	_	_
 22-23	saan-saang	_	_	_	_	_	_	_	_
 22	saan-saa	saan	ADV	_	Case=Loc|PronType=Int	21	fixed	_	_
 23	-ng	na	PART	_	_	21	case	_	_

@@ -17,7 +17,7 @@
   <tags unique="17">
     <tag name="ADJ">11404</tag><!-- iba, lahat, ayon, una, dati, bago, huli, buo, tama, totoo -->
     <tag name="ADP">41499</tag><!-- sa, ng, ni, kay, mula, para, nasa, bilang, nina, hanggang -->
-    <tag name="ADV">26547</tag><!-- na, hindi, pa, din, naman, lang, daw, noon, ngayon, lamang -->
+    <tag name="ADV">26548</tag><!-- na, hindi, pa, din, naman, lang, daw, noon, ngayon, lamang -->
     <tag name="AUX">1</tag><!-- be -->
     <tag name="CCONJ">8364</tag><!-- at, pero, o, ngunit, and, subalit, kundi, saka, or, kaysa -->
     <tag name="DET">24600</tag><!-- ang, mga, si, sina, the, a, this, bawat, dito, iyon -->
@@ -28,7 +28,7 @@
     <tag name="PRON">19408</tag><!-- ito, niya, siya, kaniya, nito, ko, nila, sila, kanila, iyon -->
     <tag name="PROPN">39821</tag><!-- city, of, Aquino, Pilipinas, Arroyo, the, Pacquiao, Manny, Philippine, Pinoy -->
     <tag name="PUNCT">29312</tag><!-- ., ,, ", ?, !, -, :, (, ), ; -->
-    <tag name="SCONJ">7810</tag><!-- kung, dahil, para, kaya, nang, upang, kahit, habang, kapag, bago -->
+    <tag name="SCONJ">7809</tag><!-- kung, dahil, para, kaya, nang, upang, kahit, habang, kapag, bago -->
     <tag name="SYM">173</tag><!-- %, P, &, $, /, ©, #, ", US$, %) -->
     <tag name="VERB">35831</tag><!-- may, wala, sabi, gawa, maging, kita, dami, bigay, tapos, laki -->
     <tag name="X">72</tag><!-- _, na, -ng, nag, mag, ng, taga, taga-, I, magkaka -->
