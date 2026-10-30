@@ -16,8 +16,8 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">11404</tag><!-- iba, lahat, ayon, una, dati, bago, huli, buo, tama, totoo -->
-    <tag name="ADP">41502</tag><!-- sa, ng, ni, kay, mula, para, nasa, bilang, nina, hanggang -->
-    <tag name="ADV">26544</tag><!-- na, hindi, pa, din, naman, lang, daw, noon, ngayon, lamang -->
+    <tag name="ADP">41499</tag><!-- sa, ng, ni, kay, mula, para, nasa, bilang, nina, hanggang -->
+    <tag name="ADV">26547</tag><!-- na, hindi, pa, din, naman, lang, daw, noon, ngayon, lamang -->
     <tag name="AUX">1</tag><!-- be -->
     <tag name="CCONJ">8364</tag><!-- at, pero, o, ngunit, and, subalit, kundi, saka, or, kaysa -->
     <tag name="DET">24600</tag><!-- ang, mga, si, sina, the, a, this, bawat, dito, iyon -->
@@ -39,7 +39,7 @@
     <feat name="Aspect" value="Imp" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">15082</feat><!-- matapos, maging, magiging, sinasabi, ginagawa, susunod, sabihin, gawin, gagawin, inaasahan -->
     <feat name="Aspect" value="Perf" upos="ADJ,ADP,ADV,NOUN,PART,PRON,PROPN,SCONJ,VERB,X">12767</feat><!-- sinabi, nasabi, naging, ginawa, nangyari, nakaraan, nakita, nagkaroon, kinilala, naganap -->
     <feat name="Case" value="Dat" upos="ADJ,ADP,ADV,NOUN,NUM,PART,PRON,PROPN,VERB">4848</feat><!-- kanya, kay, kanila, atin, akin, iyo, amin, inyo, kanilang, kina -->
-    <feat name="Case" value="Gen" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">25447</feat><!-- ng, ni, niya, nito, ko, nila, mo, namin, natin, nina -->
+    <feat name="Case" value="Gen" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">25603</feat><!-- ng, ni, niya, nito, ko, nila, mo, noon, namin, natin -->
     <feat name="Case" value="Loc" upos="ADP,ADV,CCONJ,DET,NOUN,PART,PRON,PROPN,PUNCT,SCONJ,VERB">19685</feat><!-- sa, nasa, saan, dito, rito, doon, roon, diyan, riyan, laban -->
     <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">27016</feat><!-- ang, si, ito, siya, sila, ako, sina, kami, ka, ‘yun -->
     <feat name="Clusivity" value="Ex" upos="ADJ,NOUN,NUM,PRON,VERB">869</feat><!-- namin, kami, amin, nami, ami, kita, ka­mi, a­min, na­mi, Blooming -->
@@ -50,7 +50,7 @@
     <feat name="Degree" value="Sup" upos="ADJ,ADV,NOUN,PROPN,VERB">211</feat><!-- pinakahuli, pinakamalaki, pinakamataas, pinakamalapit, pinakamaganda, pinakamahalaga, pinakamarami, pinakamahusay, pinakamainam, pinakamasakit -->
     <feat name="Deixis" value="Med" upos="ADV,DET,NOUN,PRON,PROPN,VERB">241</feat><!-- ‘yan, iyan, diyan, ganyan, riyan, yan, ‘ya, 'yan, nandiyan, niyan -->
     <feat name="Deixis" value="Prox" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,NUM,PRON,PROPN,SCONJ,VERB">3889</feat><!-- ito, nito, dito, rito, ganito, ito’y, heto, nandito, narito, pito -->
-    <feat name="Deixis" value="Remt" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1482</feat><!-- noon, ‘yun, doon, ‘yon, iyon, noo, ‘yung, roon, nu’n, noong -->
+    <feat name="Deixis" value="Remt" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1630</feat><!-- noon, ‘yun, doon, ‘yon, iyon, noo, ‘yung, roon, nu’n, noong -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADV,AUX,DET,NOUN,PRON">6</feat><!-- 's, He, a, actor, good, very -->
     <feat name="Mood" value="Imp" upos="VERB">2</feat><!-- Ibinuhos, pinantayan -->
     <feat name="Mood" value="Ind" upos="ADJ,ADP,ADV,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">17693</feat><!-- sinabi, nasabi, naging, ginawa, sinasabi, nangyari, nakaraan, nakita, ginagawa, nagkaroon -->
@@ -69,7 +69,7 @@
     <feat name="Person" value="3" upos="ADP,ADV,NOUN,PART,PRON,PROPN,VERB">8152</feat><!-- niya, siya, kanya, nila, sila, kanila, kanilang, silang, nilang, n’ya -->
     <feat name="Polarity" value="Neg" upos="ADJ,ADP,ADV,NOUN,PRON,PROPN,SCONJ,VERB">4003</feat><!-- hindi, wala, ‘di, huwag, ayaw, di, 'di, ayoko, ‘wag, ayo -->
     <feat name="Polite" value="Form" upos="INTJ,PART">297</feat><!-- po, ho, pong, Opo, poh -->
-    <feat name="PronType" value="Dem" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">5614</feat><!-- ito, nito, dito, noon, ‘yun, doon, rito, ‘yon, iyon, ganito -->
+    <feat name="PronType" value="Dem" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">5762</feat><!-- ito, nito, noon, dito, ‘yun, doon, rito, ‘yon, iyon, ganito -->
     <feat name="PronType" value="Ind" upos="ADV,NOUN,PRON,PROPN">135</feat><!-- anuman, sinuman, anuma, alinman, ano, ninuman, sinuma, Marami, alinmang, ama -->
     <feat name="PronType" value="Int" upos="ADJ,ADV,CCONJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1573</feat><!-- saan, ano, bakit, ilan, sino, paano, ilang, ila, gaano, kailan -->
     <feat name="PronType" value="Prs" upos="ADJ,ADP,ADV,NOUN,NUM,PART,PRON,PROPN,VERB">13387</feat><!-- niya, siya, kanya, ko, nila, sila, kanila, ako, mo, namin -->
